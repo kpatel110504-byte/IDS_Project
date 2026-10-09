@@ -1,0 +1,12 @@
+Model: Random Forest
+  Accuracy : 1.0000
+  Precision: 1.0000
+  Recall   : 1.0000
+  F1-score : 1.0000
+
+Model: SVM
+  Accuracy : 0.8479
+  Precision: 1.0000
+  Recall   : 0.7328
+  F1-score : 0.8458
+

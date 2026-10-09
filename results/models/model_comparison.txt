@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1
+Random Forest,1.0000,1.0000,1.0000,1.0000
+SVM,0.8479,1.0000,0.7328,0.8458
+PyTorch NN,0.8737,0.9967,0.7807,0.8756

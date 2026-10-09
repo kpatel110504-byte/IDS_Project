@@ -1,0 +1,5 @@
+PyTorch NN metrics
+Accuracy : 0.8737
+Precision: 0.9967
+Recall   : 0.7807
+F1-score : 0.8756
